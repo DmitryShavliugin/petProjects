@@ -1,0 +1,6 @@
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\Testing Area\Builder Pattern\Builder Pattern\bin\Debug\Builder Pattern.exe.config
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\Testing Area\Builder Pattern\Builder Pattern\bin\Debug\Builder Pattern.exe
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\Testing Area\Builder Pattern\Builder Pattern\bin\Debug\Builder Pattern.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\Testing Area\Builder Pattern\Builder Pattern\obj\Debug\Builder Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\Testing Area\Builder Pattern\Builder Pattern\obj\Debug\Builder Pattern.exe
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\Testing Area\Builder Pattern\Builder Pattern\obj\Debug\Builder Pattern.pdb
